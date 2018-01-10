@@ -1,0 +1,1 @@
+# Some Resource of HashMap
